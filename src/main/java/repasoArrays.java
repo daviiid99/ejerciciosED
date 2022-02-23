@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Arrays;
 
+// Clase para generar, rellenar, sumar y hacer medias de una Array
 public class repasoArrays {
     
     
@@ -16,7 +17,7 @@ public class repasoArrays {
         
         return listaNumeros;
 }    
-
+ 
     public static int sumarLista(ArrayList<Integer> listaN){
         int suma = 0;
         
